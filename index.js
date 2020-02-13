@@ -41,6 +41,42 @@ const initSongs = [
     artist: "Salt-N-Pepa",
     name: "Push It",
     videoURL: "https://youtu.be/vCadcBR95oU"
+  },
+  {
+    id: 8,
+    artist: "Kanako Itou",
+    name: "Hacking to the Gate",
+    videoURL: "https://youtu.be/tdjthJXntrk"
+  },
+  {
+    id: 9,
+    artist: "Clinic",
+    name: "Harmony",
+    videoURL: "https://youtu.be/FxeEXlJsINQ"
+  },
+  {
+    id: 10,
+    artist: "Clinic",
+    name: "Come Into Our Room",
+    videoURL: "https://youtu.be/KDbQJ7x9Blw"
+  },
+  {
+    id: 11,
+    artist: "Blonde Redhead",
+    name: "Magic Mountain",
+    videoURL: "https://youtu.be/ywUmY-jb8-o"
+  },
+  {
+    id: 12,
+    artist: "Blonde Redhead",
+    name: "Golden Light",
+    videoURL: "https://youtu.be/0gtTy2YWGbQ"
+  },
+  {
+    id: 13,
+    artist: "Sugarcubes",
+    name: "Cat",
+    videoURL: "https://youtu.be/Mo2_q-TLHBQ"
   }
 ];
 
