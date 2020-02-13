@@ -35,6 +35,12 @@ const initSongs = [
     artist: "Survivor",
     name: "Eye of the Tiger",
     videoURL: "https://youtu.be/btPJPFnesV4"
+  },
+  {
+    id: 6,
+    artist: "Salt-N-Pepa",
+    name: "Push It",
+    videoURL: "https://youtu.be/vCadcBR95oU"
   }
 ];
 
