@@ -77,6 +77,12 @@ const initSongs = [
     artist: "Sugarcubes",
     name: "Cat",
     videoURL: "https://youtu.be/Mo2_q-TLHBQ"
+  },
+  {
+    id: 14,
+    artist: "House of Pain",
+    name: "Jump Around",
+    videoURL: "https://youtu.be/XhzpxjuwZy0"
   }
 ];
 
