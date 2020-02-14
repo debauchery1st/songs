@@ -95,6 +95,18 @@ const initSongs = [
     artist: "Joy Division",
     name: "Transmission",
     videoURL: "https://youtu.be/6dBt3mJtgJc"
+  },
+  {
+    id: 17,
+    artist: "Pixies",
+    name: "Where is my mind",
+    videoURL: "https://youtu.be/I_aBmrYChfQ"
+  },
+  {
+    id: 18,
+    artist: "The Strokes",
+    name: "Hard to Explain",
+    videoURL: "https://youtu.be/BXkm6h6uq0k"
   }
 ];
 
