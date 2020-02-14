@@ -89,6 +89,12 @@ const initSongs = [
     artist: "PIZZICATO FIVE",
     name: "It's A Beautiful Day",
     videoURL: "https://youtu.be/cgdy-pNni-8"
+  },
+  {
+    id: 16,
+    artist: "Joy Division",
+    name: "Transmission",
+    videoURL: "https://youtu.be/6dBt3mJtgJc"
   }
 ];
 
