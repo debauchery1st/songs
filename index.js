@@ -83,6 +83,12 @@ const initSongs = [
     artist: "House of Pain",
     name: "Jump Around",
     videoURL: "https://youtu.be/XhzpxjuwZy0"
+  },
+  {
+    id: 15,
+    artist: "PIZZICATO FIVE",
+    name: "It's A Beautiful Day",
+    videoURL: "https://youtu.be/cgdy-pNni-8"
   }
 ];
 
