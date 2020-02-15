@@ -107,6 +107,23 @@ const initSongs = [
     artist: "The Strokes",
     name: "Hard to Explain",
     videoURL: "https://youtu.be/BXkm6h6uq0k"
+  },
+  {
+    id: 19,
+    artist: "Weezer",
+    name: "Buddy Holly",
+    videoURL: "https://youtu.be/kemivUKb4f4"
+  },
+  {
+    id: 20,
+    artist: "The Breeders",
+    videoURL: "https://youtu.be/fxvkI9MTQw4"
+  },
+  {
+    id: 21,
+    artist: "Fatboy Slim & Wildchild",
+    name: "Renegade Master",
+    videoURL: "https://youtu.be/K9QhSZ_vD8I"
   }
 ];
 
