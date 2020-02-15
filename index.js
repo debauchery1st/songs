@@ -1,7 +1,10 @@
 require("dotenv").config();
 const express = require("express");
 const server = express();
+const helmet = require("helmet");
 server.use(express.json());
+server.use(helmet());
+
 const port = process.env.PORT || 4003;
 
 const initSongs = [
@@ -164,6 +167,78 @@ const initSongs = [
     id: 28,
     artist: "Portishead",
     name: "Wandering Star"
+  },
+  {
+    id: 29,
+    artist: "Sister Rosetta Tharpe",
+    name: "This Train",
+    videoURL: "https://youtu.be/jOrhjgt-_Qc"
+  },
+  {
+    id: 30,
+    artist: "M A R R S",
+    name: "Pump Up The Volume",
+    videoURL: "https://youtu.be/w9gOQgfPW4Y"
+  },
+  {
+    id: 31,
+    artist: "New Order",
+    name: "Blue Monday",
+    videoURL: "https://youtu.be/iOEJHNZpeck"
+  },
+  {
+    id: 32,
+    artist: "Simple Minds",
+    name: "Don't You (Forget About Me)",
+    videoURL: "https://youtu.be/z8v84520W6s"
+  },
+  {
+    id: 33,
+    artist: "The Mamas & The Papas",
+    name: "California Dreamin'",
+    videoURL: "https://youtu.be/N-aK6JnyFmk"
+  },
+  {
+    id: 34,
+    artist: "Simon & Garfunkel",
+    name: "The Sounds of Silence",
+    videoURL: "https://youtu.be/4fWyzwo1xg0"
+  },
+  {
+    id: 35,
+    artist: "Radiohead",
+    name: "Street Spirit (Fade Out)",
+    videoURL: "https://youtu.be/LCJblaUkkfc"
+  },
+  {
+    id: 36,
+    artist: "The xx",
+    name: "Intro",
+    videoURL: "https://youtu.be/qFq6nnw7xg0"
+  },
+  {
+    id: 37,
+    artist: "Crystal Castles",
+    name: "Untrust Us",
+    videoURL: "https://youtu.be/J8dT46asgTk"
+  },
+  {
+    id: 38,
+    artist: "Helmet",
+    name: "Unsung",
+    videoURL: "https://youtu.be/jBfygUiS50g"
+  },
+  {
+    id: 39,
+    artist: "Dinosaur Jr.",
+    name: "Feel the Pain",
+    videoURL: "https://youtu.be/OkkKimuDNIQ"
+  },
+  {
+    id: 40,
+    artist: "Republica",
+    name: "Ready to Go",
+    videoURL: "https://youtu.be/JgffRW1fKDk"
   }
 ];
 
