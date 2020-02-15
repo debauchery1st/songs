@@ -124,6 +124,46 @@ const initSongs = [
     artist: "Fatboy Slim & Wildchild",
     name: "Renegade Master",
     videoURL: "https://youtu.be/K9QhSZ_vD8I"
+  },
+  {
+    id: 22,
+    artist: "Blur",
+    name: "Song 2",
+    videoURL: "https://youtu.be/SSbBvKaM6sk"
+  },
+  {
+    id: 23,
+    artist: "Stereo MC's",
+    name: "Connected",
+    videoURL: "https://youtu.be/f7KyKb-Im90"
+  },
+  {
+    id: 24,
+    artist: "Beastie Boys",
+    name: "Intergalactic"
+  },
+  {
+    id: 25,
+    artist: "Harvey Danger",
+    name: "Flagpole Sitta",
+    videoURL: "https://youtu.be/jJo0MT3wDBs"
+  },
+  {
+    id: 26,
+    artist: "The White Stripes",
+    name: "Seven Nation Army",
+    videoURL: "https://youtu.be/y9ANOzmSKQg"
+  },
+  {
+    id: 27,
+    artist: "Cake",
+    name: "The Distance",
+    videoURL: "https://youtu.be/F_HoMkkRHv8"
+  },
+  {
+    id: 28,
+    artist: "Portishead",
+    name: "Wandering Star"
   }
 ];
 
